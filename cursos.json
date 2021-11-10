@@ -42,5 +42,16 @@
     "Horario": "Libre",
     "Precio": "120-200€",
     "Contacto": "elena@elenamadrigal.com"
-  }
+  },
+  {
+    "Curso": "Aprende a crear webs con Bubble",
+    "Tipo": "Video",
+    "Tema": "Bubble, nocode",
+    "Docente": "Pablo Heredia",
+    "Enlace": "https://pabloheredia.gumroad.com/l/cursobubble",
+    "Duración": "",
+    "Horario": "Libre",
+    "Precio": "149€",
+    "Contacto": "pheredia24@gmail.com"
+  }  
 ]
