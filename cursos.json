@@ -1,0 +1,46 @@
+[
+  {
+    "Curso": "Taller CSS",
+    "Tipo": "Taller",
+    "Tema": "CSS",
+    "Docente": "Diana Aceves",
+    "Enlace": "https://dianaaceves.notion.site/Taller-CSS-Diana-Aceves-0b6f4a9c833f4ae291e2f4a9719763fc",
+    "Duración": "~9h",
+    "Horario": "Sábados de 10:00 a 14:00\nDías laborables de 18:00 a 21:00",
+    "Precio": "No fijo",
+    "Contacto": "d.aceves@gmail.com"
+  },
+  {
+    "Curso": "Engineering Manager",
+    "Tipo": "Taller",
+    "Tema": "gestión de personas",
+    "Docente": "Félix López",
+    "Enlace": "https://www.notion.so/Taller-de-Engineering-Manager-Online-version-2c39a5aa8e464f68a6a020c473934e76",
+    "Duración": "~10h",
+    "Horario": "Durante el fin de semana, 5 horas cada día.\nDurante 3 días, 3.5 horas cada día.",
+    "Precio": "500€",
+    "Contacto": "hola@flopezluis.es"
+  },
+  {
+    "Curso": "Ecommnocode",
+    "Tipo": "Video",
+    "Tema": "nocode, ecommerce",
+    "Docente": "Jaime Mesa",
+    "Enlace": "https://ecommnocode.com/",
+    "Duración": "~6h",
+    "Horario": "Libre",
+    "Precio": "140€",
+    "Contacto": "jaime@jaimemesa.com"
+  },
+  {
+    "Curso": "Tu página en Notion",
+    "Tipo": "Video",
+    "Tema": "Notion",
+    "Docente": "Elena Madrigal",
+    "Enlace": "https://tupaginaennotion.com/el-curso",
+    "Duración": "",
+    "Horario": "Libre",
+    "Precio": "120-200€",
+    "Contacto": "elena@elenamadrigal.com"
+  }
+]
