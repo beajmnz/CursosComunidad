@@ -53,5 +53,27 @@
     "Horario": "Libre",
     "Precio": "149€",
     "Contacto": "pheredia24@gmail.com"
-  }  
+  },
+  {
+    "Curso": "Taller de Web Performance",
+    "Tipo": "Taller",
+    "Tema": "web performance",
+    "Docente": "Joan León",
+    "Enlace": "https://nucliweb.net/workshops/web-performance",
+    "Duración": "18h",
+    "Horario": "Sábados de 10 a 14h",
+    "Precio": "95€",
+    "Contacto": "@nucliweb"
+  },
+  {
+    "Curso": "Taller de PostCSS",
+    "Tipo": "Taller",
+    "Tema": "PostCSS",
+    "Docente": "Joan León",
+    "Enlace": "https://nucliweb.net/workshops/postcss",
+    "Duración": "8h",
+    "Horario": "Sábados de 10 a 14h",
+    "Precio": "50€",
+    "Contacto": "@nucliweb"
+  }
 ]
