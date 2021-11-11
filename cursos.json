@@ -75,5 +75,16 @@
     "Horario": "Sábados de 10 a 14h",
     "Precio": "50€",
     "Contacto": "@nucliweb"
+  },
+  {
+    "Curso": "Taller de UX Writing y Microcopy  remoto",
+    "Tipo": "Taller",
+    "Tema": "UX writing, microcopy",
+    "Docente": "Eva Janeiro y Clara Sánchez-Puga",
+    "Enlace": "https://lanavenodriza.com/taller-de-ux-writing/",
+    "Duración": "18h+2h",
+    "Horario": "Martes, miércoles y jueves de 17 a 20h",
+    "Precio": "500€",
+    "Contacto": "@EvaJaneiroUXW"
   }
 ]
