@@ -86,5 +86,16 @@
     "Horario": "Martes, miércoles y jueves de 17 a 20h",
     "Precio": "500€",
     "Contacto": "@EvaJaneiroUXW"
+  },
+  {
+    "Curso": "Python orientado al análisis de datos",
+    "Tipo": "Taller",
+    "Tema": "python, data",
+    "Docente": "Luz Frías",
+    "Enlace": "https://github.com/koldLight/curso-python-analisis-datos",
+    "Duración": "~24h",
+    "Horario": "Libre",
+    "Precio": "0€ por libre, a acordar presencial para empresas",
+    "Contacto": "@koldLight"
   }
 ]
